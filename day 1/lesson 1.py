@@ -8,3 +8,4 @@ print(name + " " + surname +" " + str(age))
 hight = "1,50"
 weght = "45"
 print(name + " " + surname + " " + str(age) + " " + hight + " " +  weght)
+dad = "mindia"
