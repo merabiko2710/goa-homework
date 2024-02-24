@@ -1,0 +1,6 @@
+input ("what's your name ?:")
+input ("what's your surname ?:")
+input ("how old are you ?:")
+input ("were are you from ?:")
+input ("what's your weight ?:")
+input ("what's your hight ?:")
