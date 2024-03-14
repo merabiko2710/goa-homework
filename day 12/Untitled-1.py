@@ -1,0 +1,8 @@
+boolien =input("tell me a bool: ")
+string = input("now a str: ") 
+integer = input("now a int: ")
+float = input("now a float: ")
+print (boolien)
+print (string)
+print (integer)
+print (float)
